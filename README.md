@@ -20,6 +20,9 @@ class NotificationSend(threading.Thread):
 - whereever you want to implement the function call the function
 - NotificationSend("subhrajyotisankarsau@gmail.com","notification","this is email send using multithreading").start() 
 
+# django Async/Await functions 🚀
+
+
 # django-multiprocessing
     
      
